@@ -6,7 +6,7 @@ Programación Móvil · Universidad del Norte · Grupo 1
 **Integrantes:** Daniel Cruzado · Hernán Mundell
 
 - **Diapositivas:** [`presentacion/Rastreo-satelital.pptx`](presentacion/Rastreo-satelital.pptx)
-- **Video de la exposición:** _(pendiente)_
+- **Video de la exposición:** _https://youtu.be/W-4df61Pxe4?si=LbSvyjNwy2ffCAvM
 
 <p>
   <img src="docs/capturas/rastreo-final.png" width="260" alt="Pestaña Rastreo" />
